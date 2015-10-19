@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WordPress](https://make.wordpress.org/chat/) - Focused on the WordPress.ORG project, be it code, design, documentation, etc.
 - [slashrocket](https://slashrocket.io/) - A community of developers of all backgrounds.
 - [Frontend Developers](http://frontenddevelopers.org/) - Talk to the other frontend devs. Learn from others and ask questions.
+- [FEDs on Slack](http://fedsonslack.com/) - FEDs on Slack is a community of highly qualified front end developers.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
