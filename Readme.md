@@ -30,6 +30,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slashrocket](https://slashrocket.io/) - A community of developers of all backgrounds.
 - [Frontend Developers](http://frontenddevelopers.org/) - Talk to the other frontend devs. Learn from others and ask questions.
 
+### Design / UX
+- [Designer Hangout](http://www.designerhangout.co/) - The Ultimate UX Community on Slack
+
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
